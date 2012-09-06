@@ -1,4 +1,3 @@
-
 core = 7.x
 api = 2
 projects[] = drupal
@@ -13,6 +12,7 @@ projects[entity][subdir] = contrib
 projects[features][subdir] = contrib
 projects[field_group][subdir] = contrib
 projects[fivestar][subdir] = contrib
+projects[gravatar][subdir] = contrib
 projects[link][subdir] = contrib
 projects[message][subdir] = contrib
 projects[notifications][subdir] = contrib
