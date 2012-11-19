@@ -3,6 +3,8 @@ makefile do Drupal Brasil
 
 Make file para a instalação do Drupal Brasil
 
+**ATENÇÃO**: Os trabalhos para a reestruturação do Drupal Brasil serão concentrados no repositório **https://github.com/drupal-br/drupalbr-d7**. Este repositório será mantido apenas enquanto estamos migrando as features.
+
 Instruções
 ----------
 
