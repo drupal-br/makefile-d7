@@ -30,4 +30,4 @@ projects[votingapi][subdir] = contrib
 projects[dbr][type] = module
 projects[dbr][directory_name] = features
 projects[dbr][download][type] = "git"
-projects[dbr][download][url] = "git://github.com/drupal-br/website-d7.git"
+projects[dbr][download][url] = "git://github.com/drupal-br/features-d7.git"
